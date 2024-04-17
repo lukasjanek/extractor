@@ -1,0 +1,12 @@
+5 most common words in extracted text:
+AI: 183
+Medium: 126
+The: 122
+I: 96
+information: 90
+
+
+Average word length: 6
+Sentiment:
+polarity=12.6%
+subjectivity=46.2%

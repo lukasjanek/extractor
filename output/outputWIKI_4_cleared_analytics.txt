@@ -1,0 +1,21 @@
+5 most common words in extracted text:
+The: 9682
+eruption: 3002
+In: 2785
+water: 2348
+also: 2282
+
+
+Average word length: 6
+
+Sentiment:
+polarity=6.9%
+subjectivity=38.8%
+
+
+Topics:
+Topic 1: states, sea, world, km, new
+Topic 2: state, mount, main, magma, island
+Topic 3: national, years, lava, volcano, eruption
+Topic 4: area, surface, eruptions, volcanic, water
+Topic 5: islands, used, ash, mi, ice

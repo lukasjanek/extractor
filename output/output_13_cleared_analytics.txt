@@ -1,0 +1,1176 @@
+5 most common words in extracted text:
+AI: 184
+Medium: 126
+The: 124
+I: 96
+information: 90
+
+
+Average word length: 6
+
+Sentiment:
+polarity=12.6%
+subjectivity=46.2%
+
+
+Named Entities:
+Write Sign
+Future of Poetry Is
+Sierra
+Elman
+Listen Share
+Sierra Elman
+Google
+Bard
+Anthropic
+English
+Bard
+Claude
+English
+AI
+English
+AI
+LLMs
+Please
+Harvard
+Maya Bodnick
+Keith
+Holyoak
+MIT
+AI
+Walt Hunter
+Atlantic
+AI
+Test
+AI
+Are
+AI
+English
+AI
+AI
+OpenAI
+Google
+Apple
+Amazon
+English
+Anthropic
+Bard
+Gemini
+OpenAI
+AI
+AI
+Test
+AI
+AI
+Overall
+AI
+AI
+Bard
+Bard
+ChatGPT
+Claude
+AI
+AI
+AI
+Bard
+ChatGPT
+Claude
+Claude
+Bard
+ChatGPT
+AI
+AI
+AI
+English
+AI
+English
+English
+English
+AI
+English
+English
+English
+English
+English
+Larry
+Flynn
+Writing Instructor
+University
+Massachusetts
+AI
+Karen Tiegel
+Middle
+School Head
+The Nueva School
+English
+Jennifer Paull
+Research Center Director
+The Nueva School
+David Orr
+Google
+LLMs
+Bard
+ABCB
+ABAB
+Dreams
+Data Science Manager
+Apple
+AI
+Flynn
+English
+AI
+AI
+English
+Bard
+ChatGPT
+Claude
+AI
+English
+AI
+English
+Bard
+Claude
+AI
+AI
+English
+English
+English
+AI
+AI
+Orr
+Interestingly
+Claude
+Flynn
+Orr
+English
+AI
+English
+English
+AI
+AI
+English
+AI
+Poet
+Lee Rossi
+English
+AI
+AI
+AI
+DNA
+English
+AI
+AI
+Maya Bodnick
+Update
+Google Bard
+Gemini
+Bard
+Gemini
+Bard
+Gemini
+Daybreak
+Claude Golden
+Rosy
+Creatures
+Symphony
+Sunrise
+Bard
+Inch
+Mountains
+Trees
+Sierra Elman
+Dawn
+Crimson
+Climbs
+Banishing
+Nature
+Speaks
+Life
+Sunrise
+Gemini
+Indigo
+Stars
+Horizon
+Embers
+Sunlight
+Trees
+Diamonds
+Hope
+Poetry Writing Technology Turing Test
+Sierra Elman
+Follow
+Help
+Careers Blog Privacy
+Text
+Teams Sierra
+Followers Home About Pinned Sierra
+Future
+Poetry Is
+Share
+ChatGPT
+Harvard
+Copy
+Facebook Email Note
+ChatGPT
+Harvard And
+Bodnick Jul
+ChatGPT
+Harvard
+Copy
+Facebook Email Note
+Share
+Expository Writing
+GPA
+English Department
+Carly Bodnick
+Pass
+Harvard
+U.S.
+Harvard
+Harvard
+Macroeconomics
+Professors Jason Furman
+David Laibson
+Micro
+Macro
+Latin
+American Politics
+Professor Steven Levitsky
+Latin America
+American Presidency
+Professor Roger
+Conflict
+Resolution
+Professor Daniel Shapiro
+Spanish
+Adriana Gutierrez
+Rigoberta Menchú
+Freshman
+Seminar
+Proust
+Professor Virginie Greene
+Search
+Lost Time
+TAs
+Harvard
+Pass
+TAs
+Conflict Resolution
+TAs
+American Presidency
+Conflict Resolution
+Neil
+Conflict Resolution
+Gutierrez
+Spanish
+Professor Levitsky
+Latin America
+Heavy
+Venezuela
+Levitsky
+ChatGPT
+Harvard
+Harvard.
+Princeton
+UC Berkeley
+Cs
+ChatGPT
+Google
+Conflict Resolution
+ChatGPT
+OpenAI
+ChatGPT
+U.S.
+ChatGPT
+ChatGPT
+ChatGPT
+ChatGPT
+ChatGPT
+ChatGPT
+OpenAI
+Nobody
+AI
+ChatGPT
+ChatGPT
+Americans
+AI
+AI
+B
+Harvard
+ChatGPT
+ChatGPT
+AI
+Ben Thompson
+LLM
+AI
+Ben
+LLM
+Ben
+AI
+University
+Maryland
+Soheil Feizi
+AI
+OpenAI
+Washington Post
+Turnitin
+AI
+AI
+AI
+AI
+AI
+TAs
+AI
+College
+TAs
+AI
+AI
+ChatGPT
+ChatGPT
+AI
+AI
+AI
+Livne
+Timothy Lee
+Adelaide Parker
+ChatGPT
+AI
+CS
+Harvard
+CS50
+Professor David Malan
+TAs
+Timothy Lee
+ChatGPT
+ChatGPT
+Harvard
+Copy
+Facebook Email Note
+Comments Carlana
+Johnson Jul
+Maya Bodnick
+Texas Instruments
+LLM
+LLM
+Expand
+Reply Share Milan Singh Triple Threat
+Maya Bodnick Wonderful
+Maya
+Harvard
+Expand
+Reply Share
+Ready
+Subscribe
+Matthew Yglesias Privacy
+Collection
+Start Writing
+Share Copy
+Facebook Email Note
+JavaScript
+Please
+JavaScript
+Tech Culture Media Environment Economics Philosophy
+Tech Culture Media Environment Economics Philosophy Latest Featured
+Essays Interviews Audio Can AI Write Authentic Poetry
+Keith Holyoak
+Keith Holyoak
+Dark Blues Gray BeeLine Reader
+Brought
+Curio
+MIT
+Mary Oliver
+Keith Holyoak
+Spider
+Mind
+Brain
+Poetry
+Alan Turing
+AI
+Artificial
+AI
+Singularity
+Second
+Yeats
+Mary Shelley
+AI
+AI
+AI
+AI
+AI
+Coleridge
+Shakespearean
+Oscar Wilde
+Sylvia Plath
+AI
+Chinese
+AI
+English
+English
+New York
+Google News
+Recall
+AI
+John Firth
+New
+Closer
+AI
+Machine
+New
+Shakespeare
+Shakespearean
+English
+Barred
+Coleridge
+AI
+AI
+Walking
+Suppose
+AI
+Intelligence
+Perception
+Memory
+Decision
+Problem
+AI
+Deep Blue
+AI
+Emotion
+Consciousness
+AI
+Hard Problem
+Intractable Problem
+Absurd
+Descartes
+AI
+AI
+AI
+AI
+AI
+Robert Frost
+Could AI
+Borges
+New
+Keith J. Holyoak
+Distinguished Professor
+Psychology
+University
+California
+Los Angeles
+Spider
+Flipboard Tagged
+AI
+MIT
+Donate
+Algorithmic Ocean
+How AI
+Marine Conservation Driven
+Dyhia Belhabib
+Karen
+Bakker
+Henkjan
+Tech Will AI Render
+Michael
+Tech
+Let
+Celebrate Being
+Bown
+MIT Press
+MIT
+Privacy Policy
+ChatGPT Doesn
+AI
+Walt Hunter Getty
+Atlantic
+Share Save
+AI
+ChatGPT
+Seamus Heaney
+National Poetry Series
+Eliot
+Waste Land
+Eliot
+Eliot
+Poetry
+Brick Tamland
+Steve Carell
+Anchorman
+Heaney
+ChatGPT
+Heaney
+Heaney
+Heaney
+English
+Auden
+Ian Bogost
+ChatGPT
+Emily Dickinson
+Adrienne Rich
+Dickinson
+Rich
+Dickinson
+Amherst
+Rich
+Emily Dickinson
+Rich
+Chicago
+Plato
+Percy Bysshe Shelley
+Wallace Stevens
+Creativity
+ChatGPT
+ChatGPT
+Poetry
+Heaney
+Dickinson
+ChatGPT
+Poetry
+Walt
+Hunter
+English
+Case Western Reserve University
+The Atlantic
+Write Sign
+Explore
+AI Artificial Intelligence Technology
+Machine Learning Data Science
+Follow
+Network EdgeCloud
+Details
+EdgeCloud
+Burgess
+Credtent
+Content How
+Origin
+AI
+IMF
+Julian
+Towards
+Function Calling Transform
+Heurist Llama
+Leap
+Heurist
+Heurist
+AI
+Sean Sheng
+Towards
+Challenges
+Network EdgeCloud
+Details
+EdgeCloud
+IMF
+Julian
+Towards
+Function Calling Transform
+Heurist Llama
+Leap
+Heurist
+Heurist
+AI
+Sean Sheng
+Towards
+Challenges
+Perfect
+Cheat Sheet Large
+GITS Apps Insight Automate
+Accelerate
+OpenAI
+AI
+Jeffrey Anthony Frankenstein
+Pollock
+Algorithmic
+Context
+Struggle
+Artistic
+Write Sign
+Explore
+Poetry Writing Media Poem Poetry
+Medium Love Life Relationships Life Lessons Haiku Nature Poetry Topic
+Follow
+Mimosa Days
+Thought
+Better Left Unknown
+Kalahari Review
+Kalahari
+Violent Poems
+Nengak Daniel
+Michelle Lauren
+Lit
+London Thieves Free Verse
+Robin Wilding
+Write
+Moon
+Thought
+Better Left Unknown
+Kalahari Review
+Kalahari
+Violent Poems
+Nengak Daniel
+Michelle Lauren
+Lit
+London Thieves Free Verse
+Robin Wilding
+Write
+Moon
+Old School Pink Door Which
+Misbah Sheikhh
+Write
+Poem Falls
+Misbah Sheikhh
+Hub Publication My Poems Are Not For The Masses
+Write Sign
+Explore
+Media Writing Tips Creativity Life Medium Self Improvement Life Lessons Poetry
+Follow
+Sara Relli
+How
+Yourself
+Leanne Simpson
+Indigenous
+Laura Rosell
+Writing
+AI Revolution
+Economy Have
+Kieran O'Brien
+Books
+Superpower
+Stephen King
+Epic Fantasy Series
+Lens
+Dark Tower
+Karen Banes
+Practice
+Three Simple
+Free
+Steven Toews
+JD
+MBA
+Writing Cooperative Courtroom
+Will Make
+Sara Relli
+How
+Yourself
+Leanne Simpson
+Indigenous
+Laura Rosell
+Writing
+AI Revolution
+Economy Have
+Kieran O'Brien
+Books
+Superpower
+Stephen King
+Epic Fantasy Series
+Lens
+Dark Tower
+Karen Banes
+Practice
+Three Simple
+Free
+Steven Toews
+JD
+MBA
+Writing Cooperative Courtroom
+Will Make
+Change
+Philosophy That Changed My
+Crow
+Feet
+Move
+Stay Home
+Contemplate Treat
+Write Sign
+Explore
+Technology Artificial Intelligence
+Machine Learning Business Software Development Startup Technology Topic
+Follow
+Lady
+Of Crypto Full
+MANTA
+NETWORK
+Eligibility
+Free Tutorial An
+Manta Airdrop
+MANTA
+Level
+Tech Jobs
+BLAST
+BLAST
+BLASTOFF
+POTENTIAL
+Jeffrey Anthony Frankenstein
+Pollock
+Algorithmic
+Context
+Struggle
+Artistic
+Crypto Full
+MANTA
+NETWORK
+Eligibility
+BLAST
+BLAST
+BLASTOFF
+POTENTIAL
+Jeffrey Anthony Frankenstein
+Pollock
+Algorithmic
+Context
+Struggle
+Artistic
+Dylan Cooper
+Than Python
+Finally Open Sourced
+Modular Inc.
+Mojo
+BLAST
+NETWORK How
+BLAST
+Airdrop
+Giles Crouch
+Digital Anthropologist Technology
+Digital Age
+Write Sign
+Explore
+Test Artificial Intelligence AI Machine Learning Alan Turing
+Follow
+João Renato Falcão Did
+Sierra Elman
+Future
+Poetry Is
+Test
+Better Software
+Michael King
+Machine
+Machine Learning
+Marc Barham
+Collector
+Renato Falcão Did
+Test
+Better Software
+Michael King
+Machine
+Machine Learning
+Marc Barham
+Collector
+Jet
+Alan M. Turing
+Computing Machinery
+Intelligence
+Alan Turing
+Computing Machinery
+Aakash Ezhilan
+Elusive
+Think
+Artificial Intelligence
+Joshua Gans The Crypto Turing Test
+Sierra Elman
+Michelle B.
+Writer
+Artist IF
+ME
+SPAMMERS
+Robbie Elman Follow Sandie Sandie Sandile Ndwangu
+Msc
+Medical
+Educator
+Follow Vera
+Follow
+Anni Korb
+Follow Rimsha Khan Hey
+Rimsha
+Atom Feed
+RSS Feed
+Site Welcome
+Medium
+Medium
+Medium
+Image
+Task Queue
+Metrics Month Week
+Medium Front End Uptime
+Image Front End Uptime
+Response Times
+PDT Investigating
+Medium
+PDT Service
+PDT Investigating
+Medium
+PDT Investigating
+Medium
+PDT Investigating
+Medium
+PDT Investigating
+Medium
+PDT
+PDT Investigating
+Medium
+PDT Service
+PDT Investigating
+Medium
+PDT Service
+PDT Investigating
+Medium
+PDT
+PDT Investigating
+Medium
+PDT Service
+PDT Investigating
+Medium
+PDT Service
+PDT Investigating
+Medium
+PDT
+PDT Investigating
+Medium
+Incident History Powered
+Atlassian Statuspage Sign
+Sign
+Medium
+Medium
+Medium
+CEOs
+U.S.
+Medium
+Medium
+Medium
+Note
+Medium
+Medium
+LinkedIn
+help.medium.com
+Medium
+Medium
+Medians
+Paris
+Portland
+Medium
+IRL
+Medium
+Medium
+Tony
+Stubblebine
+Medium Pub Crawl My
+Medium Pub Crawl How
+Tony Stubblebine
+Medium
+Medium
+Medium
+Buster Benson Mar
+Terrie Schweitzer
+Subscribe
+For Writers
+Editors
+Medium
+Medium
+Ariel Meadow Stallings
+Boost Nomination Pilot
+Medium
+Ariel
+Meadow Stallings
+Quality Guidelines
+Quality Guidelines
+Medium
+Terrie Schweitzer
+Medium
+Adrienne
+Gibbs Apr
+Adrienne Gibbs
+Easter
+Easter
+Easter
+Holi
+Passover
+Spring Equinox
+Tax
+Adrienne
+Gibbs Mar
+Medium Blog Latest Stories Archive About Medium
+Privacy TeamsOpen
+Write Sign
+Medium
+Medium
+Medium
+Listen Share
+Policy
+Medium Corporation
+Policy
+Policy
+Policy
+CONTENTS Collection
+Information Use
+Information Sharing
+Information
+Information
+United States
+Other Countries
+California
+Individuals
+Europe
+Us
+Medium
+Collect
+Us
+Device
+Usage
+IP
+Cookies
+Similar Tracking
+GIFs
+Medium
+Other Sources
+Apple
+Facebook
+Google
+USE OF
+INFORMATION
+Create
+Medium
+Communicate
+Medium
+Monitor
+Detect
+Medium
+Debug
+Comply
+Carry
+Services
+Medium
+Medium
+EMBEDS Medium
+Embed
+Medium
+YouTube
+Embed
+YouTube
+Medium
+Policy
+Embeds
+Embed
+Embed
+Embed
+TRANSFER
+OF
+THE
+UNITED
+STATES
+AND
+United States
+United States
+Amazon Web Services
+CHOICES Account
+Services
+Settings
+Please
+Please
+Mobile
+Push Notifications
+CALIFORNIA
+California
+Cal
+Civ
+Code
+California
+California
+Collection
+Information
+Use
+Information
+Link
+Medium
+Subject
+CCPA
+ADDITIONAL
+DISCLOSURES FOR
+European Economic Area
+United Kingdom
+Switzerland
+Legal Basis
+Data
+Subject
+Medium
+Settings
+Settings
+Account
+Settings
+Settings
+Account
+Customize
+Settings
+Settings
+Account
+Medium
+Data Protection
+Privacy
+United Kingdom
+Albert Embankment London
+United
+Kingdom Or
+Privacy
+Medium Some
+Follow Written
+Medium
+Medium Policy Everyone
+Follow Help Status
+Careers Blog Privacy
+Text
+Teams Open
+Write Sign
+Medium
+Service
+Medium
+Medium
+Listen Share
+Medium
+Service
+Services
+Medium Corporation
+Medium
+Resolving Disputes
+Policy
+Please
+Services
+Services
+Please
+Services
+Safeguard
+Services
+Services
+Medium
+Personal
+Newsletter
+Personal Information
+Personal Information
+Medium
+Personal Information
+User
+Content
+Services Medium
+Medium
+Services
+Services
+Services
+Medium
+Medium
+Medium
+Medium
+US
+Services
+Services
+Medium
+Separate
+Services
+Services
+Services
+Transfer
+US
+Indemnification
+Medium
+Medium Parties
+Claims
+Medium Parties
+Medium Parties
+Medium Parties
+Medium
+Is
+Medium
+Medium
+Services
+Medium
+Medium
+Medium Parties
+Services
+Medium
+Medium Parties
+Medium
+Medium Parties
+Medium
+Medium Parties
+Disputes
+Please
+Medium
+Medium
+Medium
+Disputes
+Medium
+Medium
+Disputes
+JAMS
+Arbitration
+San Francisco
+California
+Services
+Medium
+Disputes
+JAMS Streamlined Arbitration Rules
+Procedures
+JAMS Rules
+JAMS Rules
+JAMS
+JAMS Rules
+JAMS Rules
+JAMS Rules
+Medium
+Federal Arbitration Act
+FAA
+FAA
+JAMS Rules
+Dispute
+Medium
+Dispute
+Medium
+Medium
+JAMS
+Medium
+Medium
+JAMS
+Medium
+California
+United States
+San Francisco
+California
+Dispute
+Medium
+Disputes
+Law
+Venue
+Medium
+California
+California
+United States
+San Francisco
+California
+Terms
+Terms
+Medium
+Medium Rules
+Partner Program Terms
+Service
+Username
+Terms Medium
+Follow Written
+Medium
+Medium Policy Everyone
+Follow Help Status
+Careers Blog Privacy
+Text
+Teams Sign
+Sign
+Medium
+Teams Explore
+Unlock
+Medium
+Discover
+Unlock
+Catalyze
+Fuel
+Stay
+Medium
+Teams
+
+
+Topics:
+Topic 1: content, experts, writing, poem, medium
+Topic 2: follow, collect, terms, write, use
+Topic 3: personal, poems, human, poetry, read
+Topic 4: service, team, make, min, ai
+Topic 5: share, account, students, services, information

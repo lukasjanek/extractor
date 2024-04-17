@@ -1,0 +1,84 @@
+5 most common words in extracted text:
+page: 27
+web: 16
+HTML: 13
+tag: 12
+text: 12
+
+
+   STARTING .
+.
+.
+There are lots of ways to create web pages using already coded programmes.
+These lessons will teach you how to use the underlying HyperText Markup Language -  HTML.
+HTML isn't computer code, but is a language that uses US English to enable texts (words, images, sounds) to be inserted and formatting such as colo(u)r and centre/ering to be written in.
+The process is fairly simple; the main difficulties often lie in small mistakes - if you slip up while word processing your reader may pick up your typos, but the page will still be legible.
+However, if your HTML is inaccurate the page may not appear - writing web pages is, at the least, very good practice for proof reading!
+Learning HTML will enable you to:  create your own simple pages read and appreciate pages created by others develop an understanding of the creative and literary implications of web-texts have the confidence to branch out into more complex web design  A HTML web page is made up of tags.
+Tags are placed in brackets like this < tag > .
+A tag tells the browser how to display information.
+Most tags need to be opened < tag > and closed < /tag >.
+To make a simple web page you need to know only four tags:  < HTML > tells the browser your page is written in HTML format < HEAD > this is a kind of preface of vital information that doesn't appear on the screen.
+< TITLE >Write the title of the web page here - this is the information that viewers see on the upper bar of their screen.
+(I've given this page the title 'webpage1').
+< BODY >This is where you put the content of your page, the words and pictures that people read on the screen.
+All these tags need to be closed.
+EXERCISE  Write a simple web page.
+Copy out exactly the HTML below, using a WP program such as Notepad.
+Information in italics indicates where you can insert your own text, other information is HTML and needs to be exact.
+However, make sure there are no spaces between the tag brackets and the text inside.
+(Find Notepad by going to the START menu\ PROGRAMS\ ACCESSORIES\ NOTEPAD).
+< HTML > < HEAD > < TITLE > title of page < /TITLE > < /HEAD > < BODY>  write what you like here: 'my first web page', or a piece about what you are reading, or a few thoughts on the course, or copy out a few words from a book or cornflake packet.
+Just type in your words using no extras such as bold, or italics, as these have special HTML tags, although you may use upper and lower case letters and single spaces.
+< /BODY > < /HTML >  Save the file as 'first.html' (ie.
+call the file anything at all) It's useful if you start a folder - just as you would for word-processing - and call it something like WEBPAGES, and put your first.html file in the folder.
+NOW - open your browser.
+On Netscape the process is: Top menu; FILE\ OPEN PAGE\ CHOOSE FILE Click on your WEBPAGES folder\ FIRST file Click 'open' and your page should appear.
+On Internet Explorer: Top menu; FILE\ OPEN\ BROWSE Click on your WEBPAGES folder\ FIRST file Click 'open' and your page should appear.
+If the page doesn't open, go back over your notepad typing and make sure that all the HTML tags are correct.
+Check there are no spaces between tags and internal text; check that all tags are closed; check that you haven't written < HTLM > or < BDDY >.
+Your page will work eventually.
+Make another page.
+Call it somethingdifferent.html and place it in the same WEBPAGES folder as detailed above.
+start formatting in lesson two  back to wws index         Fi rst S teps in For ma tting   The formatting of words has always been an integral part of the writing/ reading process: think about hand-written medieval manuscripts with their beautiful illuminated texts, or consider the design of the inside pages of contemporary novels or, indeed, of your essays and dissertations (page size, title page, contents, bibliography, font size, punctuation ...).
+We have become so familiar with certain print conventions that the medium has become largely transparent or, when it does assert itself we tend to 'feel' it as a sensual artifact ("I like taking books to bed").
+A new medium such as the web demands self-conscious attention to the format of its text, and millions of words (print and online) are dedicated to the topic of 'web design'.
+More precisely, within the genre of web-specific fiction, formatting techniques are used to generate literary/ artistic meaning, and explicit attention to formatting is the first characteristic of web writing.
+This lesson will teach you simple formatting: how to change the colo(u)r of the font and background, how to apply font emphasis such as bold or italic, how to change the size of your font, and how to position text on the page.
+BODY COLO(U)R  To change the body colo(u)r you need to add the attribute to the    < BODY > tag, like this: < BODY BGCOLOR="black" >   FONT ATTRIBUTES   You can specify the font colour by using the BODY tag: < BODY BGCOLOR="black" TEXT="green" > Or you can stipulate the attributes of different chunks of text throughout the body of the page.
+This involves a new tag, the < FONT > tag and its partner < /FONT>.
+You type the font tag at the beginning and end of your text to change features such as colour and size.
+For example: < FONT COLOR="red" SIZE="4"> This is quite bold and bright < /FONT > You can use numbers 1-7 inclusive.
+< B > bold < /B>  < I > italic < /I >  < U > underline < /U >  < H > Heading tags can be used from a large < H1>  down to a very small font < H6 >, and tags must always be closed.
+For example: < H1 > BIG HEADING < /H1 > Try the out the other sizes, and note the space above and below the typed line.
+POSITIONING TEXT  < BR > This forces a line break.
+< BR > This tag doesn't need to be closed.
+< P > Starts a paragraph.
+Close like so: < /P >  < P > Then repeat to start the next paragraph, and pay attention to the line spacing that results from this technique.
+< /P >  < P>  Are you getting the hang of this?
+It is quite a challenge to position text accurately with these basic techniques - not like word processing at all.
+Later on you can learn how to draw TABLES - a grid which enables the precise setting of web page elements - but, for now, see how much you can do with a few simple tricks.
+< /P >  < CENTER > puts text in the centre of a page.
+Close < /CENTER >  < PRE > This enables you to have some control
+		over the positioning of text.
+BUT
+		the font, as you see, is mono-type.
+Remember 
+		to
+                    close
+                           the
+			        tag.
+< /PRE >    Don't forget - there is no space between the brackets and the text inside.
+and just for fun: < HR > draws a horizonal line across the page.
+No need to close this tag.
+EXERCISE Have some fun and produce a web page that exploits the colour and font attributes you have learnt.
+Take a piece of print writing - your own or a found text - and convert it into HTML.
+Stretch the simple techniques of this lesson.
+Focus on the process : play and make mistakes and see where such mistakes take you.
+When you have written something you like, or you get bored and want to move on, save your page in your WEBPAGES folder.
+EXTRA  COLOUR: There are more complicated and subtle ways of choosing and writing colo(u)rs than by using their ordinary names.
+This involves specifying the 'hexadecimal' number of each of the 216 web-safe colo(u)rs.
+When you are ready, check out these pages by Kaz Madigan (opens in new browser).
+Click on the 'web safe colours' link.
+But everyday names are fine to start with    In the next lesson we look at how to make links to other pages (your own pages and those already on the web).
+go to: lesson one: a simple web page lesson three: linking web texts  back to wws index         home page   research projects   modules  e-learning   diy simple web pages email ann kaloski
