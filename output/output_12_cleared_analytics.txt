@@ -1,0 +1,21 @@
+5 most common words in extracted text:
+I: 13
+course: 8
+web: 6
+Get: 6
+scraping: 6
+
+
+Average word length: 6
+
+Sentiment:
+polarity=26.1%
+subjectivity=57.7%
+
+
+Topics:
+Topic 1: brody, credit, wanted, scrape, course
+Topic 2: download, purchase, need, card, scraping
+Topic 3: site, book, securely, code, web
+Topic 4: data, lesson, paypal, started, people
+Topic 5: websites, faq, easy, learn, lessons

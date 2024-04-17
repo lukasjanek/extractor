@@ -1,0 +1,21 @@
+5 most common words in extracted text:
+page: 27
+web: 16
+HTML: 13
+tag: 12
+text: 12
+
+
+Average word length: 5
+
+Sentiment:
+polarity=11.7%
+subjectivity=41.6%
+
+
+Topics:
+Topic 1: check, process, start, colo, text
+Topic 2: click, lesson, like, tags, font
+Topic 3: browser, closed, formatting, words, page
+Topic 4: notepad, title, need, pages, tag
+Topic 5: make, body, simple, html, web

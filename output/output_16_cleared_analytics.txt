@@ -1,0 +1,21 @@
+5 most common words in extracted text:
+soup: 1091
+tag: 1024
+Soup: 993
+Beautiful: 921
+BeautifulSoup: 896
+
+
+Average word length: 5
+
+Sentiment:
+polarity=21.2%
+subjectivity=53.6%
+
+
+Topics:
+Topic 1: css, documento, python, print, soup
+Topic 2: character, attribute, en, el, beautiful
+Topic 3: entity, story, sister, xml, beautifulsoup
+Topic 4: element, title, document, string, tag
+Topic 5: la, markup, que, http, html

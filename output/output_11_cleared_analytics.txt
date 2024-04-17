@@ -1,0 +1,21 @@
+5 most common words in extracted text:
+Crawler: 278
+Test: 274
+two: 263
+point: 262
+oh: 262
+
+
+Average word length: 6
+
+Sentiment:
+polarity=2.8%
+subjectivity=28.6%
+
+
+Topics:
+Topic 1: description, characters, link, status, oh
+Topic 2: disallowed, double, lumar, title, page
+Topic 3: header, external, length, url, http
+Topic 4: links, javascript, redirect, canonical, crawler
+Topic 5: noindex, meta, tag, point, test

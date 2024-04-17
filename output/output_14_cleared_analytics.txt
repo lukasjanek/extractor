@@ -1,0 +1,21 @@
+5 most common words in extracted text:
+HubSpot: 1186
+website: 1109
+The: 889
+site: 791
+page: 685
+
+
+Average word length: 6
+
+Sentiment:
+polarity=21.7%
+subjectivity=48.1%
+
+
+Topics:
+Topic 1: business, css, marketing, html, use
+Topic 2: using, image, make, page, website
+Topic 3: new, information, data, design, site
+Topic 4: create, email, wordpress, content, hubspot
+Topic 5: best, code, like, web, free

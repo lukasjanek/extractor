@@ -1,0 +1,21 @@
+5 most common words in extracted text:
+The: 3786
+n: 3291
+A: 2264
+x: 2194
+In: 1826
+
+
+Average word length: 6
+
+Sentiment:
+polarity=7.9%
+subjectivity=40.6%
+
+
+Topics:
+Topic 1: article, example, mathematical, proof, number
+Topic 2: using, work, main, theorem, numbers
+Topic 3: natural, form, philosophy, geometry, logic
+Topic 4: proofs, use, mathematics, set, theory
+Topic 5: function, triangle, prime, true, used
