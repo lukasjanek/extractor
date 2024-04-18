@@ -1,4 +1,9 @@
-# Project Name
+################################################
+#######					########
+#######		TextExtractor		########
+#######					########
+################################################
+
 
 ############## Description ################
 
@@ -12,6 +17,8 @@ To get started with this project, follow these instructions:
 2. Ensure you have all the necessary libraries installed.
 3. Modify the `file_path` variable in [filename.py] to use "\\" instead of "/" or "\".
 4. Specify only the name of the file (e.g., "name.txt") that the algorithm should generate. It will take care of the rest.
+5. If you see IOPub error, try to open Jupyter notebook config, if there isnt one generate it in Anaconda console and look for "NotebookApp.iopub_data_rate_limit"
+and up to to 100000000
 
 
 ############ Contributing ################
